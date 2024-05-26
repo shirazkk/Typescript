@@ -27,7 +27,6 @@ let index=4;
 --index
 ++index
 console.log(index);
-
 //Decrement -
 let index2=4;
 --index2
